@@ -107,7 +107,7 @@ const Hero = () => (
     </div>
     <div className="container mx-auto px-4 md:px-8 relative z-10 text-white w-full md:w-3/4 lg:w-2/3">
       <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6">
-        Advogado Tributário em Fortaleza para Empresas
+        Advocacia Tributária em Fortaleza
       </h1>
       <p className="text-lg md:text-xl mb-4 text-gray-200 font-medium">
         A Duarte & Cabral Advocacia Tributária ajuda empresas em Fortaleza a reduzir impostos legalmente, recuperar tributos pagos indevidamente e se defender de cobranças fiscais.
@@ -133,7 +133,7 @@ const Hero = () => (
         </a>
       </div>
       <p className="text-sm text-yellow-400 font-medium flex items-center">
-        <MapPin size={16} className="mr-1" /> Atendimento empresarial em Fortaleza e em todo o Ceará.
+        <MapPin size={16} className="mr-1" /> Atendimento empresarial em Fortaleza e em todo o Brasil.
       </p>
     </div>
   </section>
